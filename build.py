@@ -11,7 +11,7 @@ page = f'''<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Obras, equipo y fichajes de SGM Trabajos Integrales. Desarrollado por KREA Digital Studio.">
+<meta name="description" content="Obras, equipo y fichajes de SGM Trabajos Integrales. Desarrollado por KREAVANCE.">
 <meta name="theme-color" content="#19211b">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -20,7 +20,7 @@ page = f'''<!doctype html>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="icon-192.png">
-{head.replace('<title>SGM Fichajes</title>', '<title>SGM · Control de obra | KREA Digital Studio</title>')}
+{head.replace('<title>SGM Fichajes</title>', '<title>SGM · Control de obra | KREAVANCE</title>')}
 <style>:root{{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}}body{{margin:0}}[hidden]{{display:none!important}}img{{max-width:100%}}</style>
 </head>
 <body>

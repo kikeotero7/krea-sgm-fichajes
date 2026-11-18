@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "SGM · Control de obra | KREA Digital Studio",
+  "name": "SGM · Control de obra | KREAVANCE",
   "short_name": "SGM Fichajes",
-  "description": "Obras, equipo y fichajes de SGM Trabajos Integrales. Desarrollado por KREA Digital Studio.",
+  "description": "Obras, equipo y fichajes de SGM Trabajos Integrales. Desarrollado por KREAVANCE.",
   "lang": "es",
   "start_url": "./#fichar",
   "scope": "./",

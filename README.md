@@ -1,6 +1,6 @@
 # SGM Fichajes · Control de obra
 
-App de control de obra y fichajes para **SGM Construcciones · Trabajos Integrales**, creada por **KREA Digital Studio**.
+App de control de obra y fichajes para **SGM Construcciones · Trabajos Integrales**, creada por **KREAVANCE**.
 
 Publicada en https://sgm-fichajes.kreadigitalstudio.es (GitHub Pages, rama `main`, carpeta raíz; DNS en OVH: CNAME `sgm-fichajes` → `kikeotero7.github.io.`).
 
